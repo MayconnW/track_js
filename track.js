@@ -1,7 +1,7 @@
 
 var cookieName = "tracking";
 var daysExpirationCookie = 365;
-var webServer = "https://project-dr-mayconn.c9users.io";
+var webServer = "https://projectrd.herokuapp.com";
 
 function sendContact(email){
   let uid = getUuidCookie();
